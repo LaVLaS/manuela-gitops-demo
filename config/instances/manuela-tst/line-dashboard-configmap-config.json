@@ -1,5 +1,5 @@
 {
-    "websocketHost": "http://messaging-manuela-tst-all.apps.ocp3.stormshift.coe.muc.redhat.com",
+    "websocketHost": "http://messaging-manuela-tst-all.OCP_WILDCARD_DOMAIN",
     "websocketPath": "/api/service-web/socket",
     "SERVER_TIMEOUT": 20000
 }
